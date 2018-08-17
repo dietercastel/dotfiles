@@ -1,6 +1,13 @@
 # Dotfiles
+Merge of dotfile: my original ones and this one from Jdevlieghere. Adapted for:
 
-> This is my dotfile repository. There are many like it, but this one is mine.
+- neovim
+- js
+- pentests/dataprocessing workflow
+- python
+- go
+- haskell
+- LaTeX
 
 I did my best to make everything work as transparently as possible under both
 Linux and macOS.
@@ -10,7 +17,7 @@ suggestion, improvement or question, don't hesitate to open an issue.
 
 ## Screenshot
 
-![macOS](https://jonasdevlieghere.com/static/dotfiles.png)
+![macOS](screenshot.png)
 
 ## Installation
 
